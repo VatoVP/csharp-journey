@@ -34,7 +34,5 @@ ________________
 
 
 Goal :
-My goal is to build a strong foundation in C# through consistent practice and gradually 
-progress to more advanced concepts and real-world projects.
 
 My goal is to build a strong foundation in C# through consistent practice and gradually progress to more advanced concepts and real-world projects.
